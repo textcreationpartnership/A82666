@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament, concerning the tryall of the King; and the bill of attainder and charge against him, in the name of Charles Stuart, impeaching him of high treason, for breach of covenant with his people. And a list of the names of the judges, lords, commons, colonels, officers of the Army, and aldermen of the city of London, who are appointed as commissioners to try his Majesty, and to give sentence against him at VVestminster; vvith the time of his comming to tryall, and a message to the kingdom, touching the same. Also, the further and finall resolution of the Army, touching the person of the King, their resolution touching the government of this kingdom, their summons to the Prince of VVales, and the Duke of York; and a declaration concerning the Duke of Gloucester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82666</idno>
+            <idno type="STC">Wing E1401</idno>
+            <idno type="STC">Thomason E536_36</idno>
+            <idno type="STC">ESTC R205345</idno>
+            <idno type="EEBO-CITATION">99864751</idno>
+            <idno type="PROQUEST">99864751</idno>
+            <idno type="VID">164845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164845)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament, concerning the tryall of the King; and the bill of attainder and charge against him, in the name of Charles Stuart, impeaching him of high treason, for breach of covenant with his people. And a list of the names of the judges, lords, commons, colonels, officers of the Army, and aldermen of the city of London, who are appointed as commissioners to try his Majesty, and to give sentence against him at VVestminster; vvith the time of his comming to tryall, and a message to the kingdom, touching the same. Also, the further and finall resolution of the Army, touching the person of the King, their resolution touching the government of this kingdom, their summons to the Prince of VVales, and the Duke of York; and a declaration concerning the Duke of Gloucester.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. VVhite, and are to be sold in the Old-Bayley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Not in fact Parliament's declaration, etc.; rather, a narration.</note>
+                  <note>Annotation on Thomason copy: "Jan: 3d 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164845:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Lords and Commons Aſſembled in PARLIAMENT, <hi>CONCERNING</hi> The Tryall of the <hi>KING;</hi> And the Bill of Attainder and Charge againſt Him, in the Name of <hi>Charles Stuart,</hi> impeaching Him of High Treaſon, for breach of Covenant with His People.</p>
+            <p>AND A Liſt of the Names of the Judges, Lords, Commons, Col<g ref="char:EOLhyphen"/>lonels, Officers of the Army, and Aldermen of the city of <hi>London,</hi> who are appointed as commiſſioners to try his Majeſty, and to give ſentence againſt Him at <hi>VVeſtminſter; VVith the time of His comming to Tryall, and a Meſsage to the Kingdom, touching the ſame.</hi>
+            </p>
+            <p>ALSO, The further and finall Reſolution of the <hi>Army,</hi> touching the perſon of the <hi>King,</hi> their Reſolution touching the Government of this <hi>Kingdom,</hi> their Summons to the Prince of <hi>VVales,</hi> and the Duke of <hi>York;</hi> and a <hi>Declaration</hi> concerning the Duke of <hi>Glouceſter.</hi>
+            </p>
+            <p>Printed for <hi>I. VVhite,</hi> and are to be ſold in the Old-Bayley:</p>
+         </div>
+      </front>
+      <body>
+         <div type="Declaration">
+            <pb facs="tcp:164845:2"/>
+            <pb n="1" facs="tcp:164845:2"/>
+            <div type="resolution">
+               <head>THE RESOLVTION OF THE ARMIE Concerning The tryall of the <hi>KING,</hi> and their Summons to the Prince of Wales and the Duke of York, and a Declaration concerning the Duke of Glouceſter.</head>
+               <p>
+                  <hi>THE</hi> Generall Councell of the Army have fully reſolved upon their Debates, touching the tryall of the King, and are reſolved to bring him to a preſent tryall, the manner of it (is ſaid to be) by ten Lords, twenty Commons, and ten Colonels, Lieutenant Colonels, and Ma<g ref="char:EOLhyphen"/>jors,
+<pb n="1" facs="tcp:164845:3"/>who are to receive Inſtructions (as Commiſſioners) for managing and proſecuting of the Bills of Attainder and Impeachment againſt the perſon of the King; and are reſol<g ref="char:EOLhyphen"/>ved to eſtabliſh and confirme a true and laſting Govern<g ref="char:EOLhyphen"/>ment within this Kingdome, and that the beſt they can ima<g ref="char:EOLhyphen"/>gine for a Common-wealth, which containeth theſe parti<g ref="char:EOLhyphen"/>culars, <hi>viz.</hi>
+               </p>
+               <p n="1">1 The Magiſtrate to have power in things civill and na<g ref="char:EOLhyphen"/>turall. 2 The Subject to be free, ſubmitting to the Civill Lawes. 3 No toleration for Popery nor Prelacy. 4 None to be forced to fight in War againſt their will, &amp;c.</p>
+               <p>And the Generall Councell have further reſolved and de<g ref="char:EOLhyphen"/>clared, That the Parliament ſhall not proceed againſt any perſons to give Judgment, but according to what is Law, Reaſon, and Equity.</p>
+               <p>And for the better facilitating and eſtabliſhing of a true and laſting peace within this Nation, the Generall Councel of the Army have paſſed the remaining part of the Articles for an Agreement of the People, and are determined ſpeedi<g ref="char:EOLhyphen"/>ly to conſider of a forme of concluſion and ſubſcription to this Agreement as to the Officers of the Army.</p>
+               <p>Summons are alſo ſent to the Prince of <hi>Wales,</hi> and the Duke of <hi>York,</hi> to require their preſent appearance, and to de<g ref="char:EOLhyphen"/>ſiſt from their Engagement, in acting againſt this Kingdom, and involving their place of Nativity in another bloudy and inteſtine War, and a day is prefixed, for their return, that in caſe they refuſe to yeeld obedience to the ſaid Summons, then to be declared againſt as Enemies to the peace of this Kingdom, and to be degraded of all Titles and Honours, be<g ref="char:EOLhyphen"/>longing to either of them.</p>
+               <p>Yet notwithſtanding, we have one precious Flower and
+<pb n="3" facs="tcp:164845:3"/>Bloſſome to fix our eyes upon, <hi>viz.</hi> the Duke of Glouce<g ref="char:EOLhyphen"/>ſter, (the Kings youngeſt Son) who in all probability, will ſpeedily be advanced to great Honours and Dignities, to the great admiration of the whole Kingdom.</p>
+               <p>Yeſterday the Committee reported the Ordinance of At<g ref="char:EOLhyphen"/>tainder againſt <hi>Charles Stuart,</hi> and the names of ſuch Com<g ref="char:EOLhyphen"/>miſſioners as ſhould try him, which are, the Earl of <hi>Den<g ref="char:EOLhyphen"/>bigh,</hi> Earl of <hi>Pembroke,</hi> E. of <hi>Kent,</hi> E of <hi>Mulgrave,</hi> E. of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and Lord <hi>Grey</hi> of <hi>Wark.</hi>
+               </p>
+               <p>Of the Houſe of Commons, the Lord <hi>Munſon,</hi> L. <hi>Liſle,</hi> L. <hi>Grey</hi> of <hi>Groby,</hi> Lieu. Gen. <hi>Crumwell,</hi> M. G. <hi>Skippon,</hi> Com. Gen: <hi>Ireton,</hi> Sir <hi>Henry Mildmay,</hi> Sir <hi>Iohn Danvers,</hi> Col. <hi>Walton,</hi> Col: <hi>Moor,</hi> Col: <hi>Boſwell,</hi> Col: <hi>Roſſiter,</hi> Col: <hi>Ven,</hi> Col: <hi>Thorney,</hi> Col: <hi>Laſsels,</hi> and about 30 Members more.</p>
+               <p>Of the Army that are not members of the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> the L. Gen. <hi>Fairfax,</hi> Col: <hi>Whalley,</hi> Col: <hi>Rich,</hi> Col: <hi>VVal<g ref="char:EOLhyphen"/>ter,</hi> Col: <hi>Tomlinſon,</hi> col: <hi>Scroop,</hi> Col: <hi>Sanders,</hi> Col: <hi>Pride,</hi> col: <hi>Twiſleton,</hi> Col: <hi>Huſon,</hi> Col: <hi>Barkstead,</hi> Col: <hi>Horton,</hi> Col: <hi>Deſ<g ref="char:EOLhyphen"/>borough,</hi> Col: <hi>Dean,</hi> and Col: <hi>Okey.</hi>
+               </p>
+               <p>Of the City of <hi>London,</hi> Alderman <hi>Pennington,</hi> Alderman <hi>VVoollaston,</hi> Ald: <hi>Fooks,</hi> Ald: <hi>Gibbs,</hi> and Alderman <hi>Andrews.</hi>
+               </p>
+               <p>The Judges are, the Lord chief Juſtice <hi>Rolls,</hi> chief Juſtice of <hi>England,</hi> Juſtice St. <hi>Iohn,</hi> Lord chief Juſtice of the Com<g ref="char:EOLhyphen"/>mon-pleas, and Lord chief Baron <hi>VVild.</hi> And two out of all the 40 Counties throughout the Kingdom, all which com<g ref="char:EOLhyphen"/>miſſioners, who are to ſit as a Jury, are to conſiſt of 150, and any 20 of them are to be a Committee for tryall of the King, and to give ſentence againſt him. By this Ordinance the Commiſſioners are limited to a moneths time, to make a finall determination of the buſineſſe, the place of tryall is ſaid to be at Weſtminſter.</p>
+            </div>
+            <div type="queries">
+               <pb n="4" facs="tcp:164845:4"/>
+               <head>New Quaeries from the King:</head>
+               <p>HIs Majeſty hath had ſome diſcourſe about the Re<g ref="char:EOLhyphen"/>monſtrance of the Army, in reference to the bring<g ref="char:EOLhyphen"/>ing of his perſon to a tryall, propoſing ſeverall Queries, how that could be, what way they could do it, or which way they could bring in any Charge againſt him: It was anſwered by a Member of the Army, That what if a Charge ſhould be brought againſt him for his life, accor<g ref="char:EOLhyphen"/>ding to the manner of tryall of the Subjects by the Lawes of the <hi>Kingdom,</hi> what would he then do, in reference to an anſwer, for preſervation of his Life, Crown, and Priviledge, the King replyed, That if any ſuch Charge of Impeachment ſhould be exhibited againſt him, either by Parliament or Army, he would not give any anſwer thereto, but declare againſt it, to be both Arbytrary and uniawfull; and that if they ſought to depoſe and degrade him of his Titles and Honours, or to ſpill his Royall bloud, by ſeparating his Soule and Body, he was reſolved to ſacrifice his life with patience, and to caſt himſelf in the Armes and Boſome of his ſweet Lord and Saviour, and only Redeemer; to the end, He may dye like a Martyr, in proſecution and defence of Reli<g ref="char:EOLhyphen"/>gion and Country. So confident is the King in his wayes. But it is feared, that his great averſneſſe to the peace of this <hi>king<g ref="char:EOLhyphen"/>dom,</hi> will cauſe cauſe much trouble and diſtractions to be<g ref="char:EOLhyphen"/>fall his people.</p>
+               <p>His Majeſtie is in a very ſecure place in the Caſtle, and ſtrong bolts and guards are for the night about the Cham<g ref="char:EOLhyphen"/>ber, but he will not admit any to lie, or remain in the cham<g ref="char:EOLhyphen"/>ber with him.</p>
+               <p>He ſaith, that he knowes there is a time for his redemption and that many of his enemies will moulter away, and fall before him; for, in his diſcourſe, he often declares, that he is
+<pb n="5" facs="tcp:164845:4"/>confident that both <hi>Scotland</hi> and <hi>Ireland</hi> will help him, and that the Army will divide among themſelves, and be de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+               <p>Col. <hi>Tomlinſon</hi> hath the command of this Caſtle, and his Majeſty is not ſuffered to ſtir out, onely walkes ſometimes upon the Territs, he is debarred from the ſpeech of many, and no ſuſpicious perſons are admitted to him: he preſſeth much for D. <hi>Hamond</hi> to be refident with him, and that Hee may have leave to communicate a Declaratory Meſſage to <hi>Holland</hi> and <hi>France.</hi>
+               </p>
+               <p>Yeſterday his Majeſty deſired a conference with Colonel <hi>Tompſon,</hi> which was aſſented to, and after ſome diſputation touching the preſent matter of State, his Maj. declared and propoſed ſeverall queſtions touching Maj. Gen. <hi>Brown,</hi> and the reſt of the impeached members, ſaying, That the ſaid M. G. was a man worthy of honour and truſt, and that he pit<g ref="char:EOLhyphen"/>tyed his caſe, as much as his owne, not doubting, but that ſew dayes would produce their liberty, notwithſtanding their preſent ſufferings for Religion and a good conſcience: his Maj. is oftentimes exceeding high in his expreſſions, and very bitter againſt divers of the Army; but caſts a favoura<g ref="char:EOLhyphen"/>ble conſtſuction upon the Lord Generall,</p>
+               <closer>
+                  <dateline>
+                     <hi>Windſor</hi> 
+                     <date>1 Jan. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="declaration">
+               <head>
+                  <hi>The Declaration of Col.</hi> Harriſon <hi>to the</hi> King.</head>
+               <p n="1">1 That his truſt was to be in God. 2 That his deſire is, that God may have the glory of all. 3 That he hated all baſe and obſcure undertakings. 4 That what would be done concerning his Majeſty would be open, and to the eyes of the world. And proteſted that he himſelf would oppoſe a<g ref="char:EOLhyphen"/>ny that ſhould privately offer violence to his perſon. This gave his Majeſty great ſatisfaction, who replyed, that if the
+<pb n="6" facs="tcp:164845:5"/>Army acted beyond his thoughts and expectation, he would proclaime their fame throughout all <hi>Europe.</hi>
+               </p>
+               <p>
+                  <hi>Tueſday</hi> Jan: 2. The Commons communicated the Ordi<g ref="char:EOLhyphen"/>nance (for tryall of the <hi>King</hi>) to the houſe of Peers for their concurrence, which was aſſented to. And for the bet<g ref="char:EOLhyphen"/>ter confirmation of the preſent tryall, and foundation there<g ref="char:EOLhyphen"/>of, and prevention of the like for the future, the Houſe de<g ref="char:EOLhyphen"/>clared, <hi>viz. Reſolved,</hi> That the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament do declare, and adjudge, That by the fundamentall Laws of this Realm, it is treaſon in the Kings of <hi>England</hi> for the time to come, to levy Warre againſt the Parliament and Kingdom of <hi>England.</hi>
+               </p>
+               <p>A meſſage is ſaid to be ſent from the Parliament, to the ſeverall Counties of the Kingdom of <hi>England,</hi> concerning the tryall of the <hi>King,</hi> for ſatisfaction of the people.</p>
+               <p>The Bill of Attainder runs high, againſt his perſon, char<g ref="char:EOLhyphen"/>ging him with high treaſon: His tryall will be at Weſtmin<g ref="char:EOLhyphen"/>ſter, and his Majeſty is expected to be thee on <hi>Munday</hi> next.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
